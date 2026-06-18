@@ -1,4 +1,4 @@
-let opcao = 6;
+let opcao = 1;
 let Seu_Peso = 70;
 
 switch (opcao) {
